@@ -41,7 +41,7 @@ public class ApiGateway {
   private PriceClient priceClient;
 
   /**
-   * Retrieves product information that desktop clients need.
+   * Retrieves product information that desktop clients nee
    *
    * @return Product information for clients on a desktop
    */
